@@ -1,1 +1,1 @@
-const AWS_SECRET_KEY = "ghp_abcdefghijklmnopqrstuvwxyz0123456789";
+const AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE";
