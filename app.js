@@ -1,0 +1,1 @@
+const AWS_SECRET_KEY = "CISCO123";
