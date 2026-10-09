@@ -1,1 +1,0 @@
-const AWS_ACCESS_KEY_ID = "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";
